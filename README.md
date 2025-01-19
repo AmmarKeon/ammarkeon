@@ -1,5 +1,5 @@
 # About Me:
-Computer Engineering Student at Alamein International University.<br>Aspiring AI enthusiast with a strong foundation in programming and a growing interest in Artificial Intelligence.<br>Proficient in Java, including JavaFX and CSS, with hands-on experience developing projects.<br>Familiar with core concepts such as neural networks, algorithms, and Linear Algebra, while actively exploring introductory topics in Machine Learning.<br>Experienced in competitive programming with a solid grasp of problem-solving and algorithmic thinking. Focused on expanding my knowledge in AI.
+Computer Engineering Student at Alamein International University. Aspiring AI enthusiast with a strong foundation in programming and a growing interest in Artificial Intelligence. Proficient in Java, including JavaFX and CSS, with hands-on experience developing projects. Familiar with core concepts such as neural networks, algorithms, and Linear Algebra, while actively exploring introductory topics in Machine Learning. Experienced in competitive programming with a solid grasp of problem-solving and algorithmic thinking. Focused on expanding my knowledge in AI.
 
 
 ## Socials:
