@@ -5,6 +5,8 @@ I specialize in bridging the gap between robust software engineering principles 
 
 On the AI/ML front, I have hands-on experience building Computer Vision, NLP, and Neural Network projects using TensorFlow, OpenCV, and Scikit-learn, backed by strong data analysis skills (Pandas, Seaborn). For the frontend, I craft highly polished, responsive interfaces utilizing modern web technologies (HTML, CSS, JS, PHP) alongside mature desktop frameworks like JavaFX.
 
+Despite my proficiency with modern web tech, JavaFX is undeniably my most proficient tool. I've spent extensive time mastering its architecture, comfortably relying on it to engineer deeply customized, modern UIs equipped with complex styling and smooth animations.
+
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ammar_keon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammarkeon) 
 
