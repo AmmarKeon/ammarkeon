@@ -1,7 +1,7 @@
 # About Me:
 Computer Engineering Student at Alamein International University with a strong track record in System Architecture, Machine Learning, and UI/UX Development.
 
-I specialize in bridging the gap between robust software engineering principles and modern AI solutions. My experience spans across the full software development lifecycle—from conceptualizing system designs (UML, DFDs, L0-L2 Architecture, Agile sprint planning) to translating user stories into scalable, production-ready code.
+I specialize in bridging the gap between robust software engineering principles and modern AI solutions. My experience spans across the full software development lifecycle, from conceptualizing system designs (UML, DFDs, L0-L2 Architecture, Agile sprint planning) to translating user stories into scalable, production-ready code.
 
 On the AI/ML front, I have hands-on experience building Computer Vision, NLP, and Neural Network projects using TensorFlow, OpenCV, and Scikit-learn, backed by strong data analysis skills (Pandas, Seaborn). For the frontend, I craft highly polished, responsive interfaces utilizing modern web technologies (HTML, CSS, JS, PHP) alongside mature desktop frameworks like JavaFX.
 
